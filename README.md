@@ -30,12 +30,17 @@ This is a **Streamlit-based demo** that generates radiology reports from chest X
 git clone https://github.com/qubit19/chest-xray-captioning.git
 cd chest-xray-captioning
 ```
-2. **Install requirements:**
+2. **Create virtaul environment (in windows)**
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+4. **Install requirements:**
 
 ```bash
 pip install -r requirements.txt
 ```
-3. **Download the model weights and put it in chest-xray-captioning folder**
+4. **Download the model weights and put it in chest-xray-captioning folder**
 
 ```bash
 https://drive.google.com/file/d/12aUoPpAyb7WPQ4Wd1YiUQuTFwRelDzVB/view?usp=sharing
