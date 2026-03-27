@@ -29,8 +29,9 @@ This is a **Streamlit-based demo** that generates radiology reports from chest X
 ```bash
 git clone https://github.com/qubit19/chest-xray-captioning.git
 cd chest-xray-captioning
-
+```
 2. **Install requirements:**
 
 ```bash
 pip install -r requirements.txt
+```
