@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+.env/
+
+# Ignore model weights
+vit-gpt_model.pt
