@@ -35,3 +35,13 @@ cd chest-xray-captioning
 ```bash
 pip install -r requirements.txt
 ```
+3. **Download the model weights and put it in chest-xray-captioning folder**
+
+```bash
+https://drive.google.com/file/d/12aUoPpAyb7WPQ4Wd1YiUQuTFwRelDzVB/view?usp=sharing
+```
+5. **Run command**
+
+```bash
+streamlit run app.py
+'''
